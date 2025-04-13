@@ -4,7 +4,7 @@ A little project to showcase my knowledge and gain some experience on NLP
 
 For now: Faithful Companion is a spiritual chatbot that offers emotional support based on the Quran and Hadith. It helps users find comfort, strength, and purpose by providing relevant verses and teachings aligned with their emotional needs.
 
-Some topics: 
+### Some topics: 
 1. Stress
 2. Depression
 3. Loneliness

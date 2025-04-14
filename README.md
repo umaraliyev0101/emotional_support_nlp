@@ -1,4 +1,6 @@
-# npl_project
+# Emotional Support ChatBot
+----
+
 A little project to showcase my knowledge and gain some experience on NLP
 
 
